@@ -1,0 +1,12 @@
+[project]
+name = "chat-cli"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openai>=2.14.0",
+    "prompt-toolkit>=3.0.52",
+    "python-dotenv>=1.2.1",
+    "rich>=14.2.0",
+]
